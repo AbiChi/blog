@@ -3,15 +3,13 @@ layout: page
 title: About
 ---
 ## About this blog
-This blog is a personal collection of thoughts in writing of Nathaniel Budijono (me), known on github as nathanielbd.
+Here I will document random resources of interest made by me (Abigail Chiaokhiao).
 
-Here, I'll write about some things I like or don't like about the world and stuff I've learned along the way while teaching myself.
-
-Functional programming, reversible computing, history memes, protein structure prediction, and text adventure games are all fair game.
+I have varying interests from rock climbing to chemistry, so be prepared for a mix of topics.
 
 All views expressed are entirely my own.
 
 ## About me
-I'm an autodidact, aspiring computational STEMer, student, and programmer. Probably in that order.
+Apart from being a Bioproducts & Biosytems Engineering student, I have a passion for coding (I'm pursuing a minor in Computer Science), which created this site. I have always loved many science related topics and the environment. Apart from my education I love to take photographs, have healthy habits, and spend time with my family.
 
-More about me on my [personal website](http://nathanielbd.github.io).
+More about me on my [personal website](http://abichi.github.io).

@@ -1,11 +1,11 @@
 # Site settings
-title: "nathanielbd"
-subtitle: "An autodidact's blog"
-description: "A minimal blog template, build with Jekyll."
-url: "http://nathanielbd.github.io/blog"
+title: "abichi"
+subtitle: "A Science-ish blog of A Chem Nerd"
+description: "A minimal blog template."
+url: "http://abichi.github.io/blog"
 author:
-  name: "Nathaniel Budijono"
-  email: "nathanielbd@gmail.com"
+  name: "Abigail Chiaokhiao"
+  email: "abi.chi0703@gmail.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
@@ -35,4 +35,4 @@ version: "1.1.0"
 # Options
 custom_header: true
 custom_nav_footer: true
-reverse: false
+reverse: true
