@@ -5,7 +5,7 @@ title: About
 ## About this blog
 Here I will document random resources of interest made by me (Abigail Chiaokhiao).
 
-I have varying interests from rock climbing to chemistry, so be prepared for a mix of topics.
+Right now I just have posts on science and photography, so feel free to navigate to those pages and then the posts from there.
 
 All views expressed are entirely my own.
 
