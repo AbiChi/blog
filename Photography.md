@@ -9,5 +9,10 @@ The first time I took pictures, it was on a disposable camera I found in a close
 
 I take pictures of mostly nature, but if something catches my eye I'll take ones of anything. The focus of the picture can change: sometimes it's to capture what I saw, sometimes it is to add some artistic flair. You can decide. Any of the links below will take you to my posts.
 
-[Scuba Photos](https://abichi.github.io/blog/Photography/Scuba-Photos/).
+[Funny Animal Poses, last updated 6/21/20](/blog/Photography/Funny-Animal-Poses/)
 
+[Baby Raccoons In Our Garbage, 6/20/20](/blog/Photography/Baby-Raccoons-In-Our-Garbage/)
+
+[Golden Hours, last updated 6/17/20](/blog/Photography/Golden-Hours/)
+
+[Scuba Photos, 6/23/18](/blog/Photography/Scuba-Photos/)
