@@ -40,15 +40,17 @@ This fun camouflage expert is the pipefish. I watched as it slowly swam up to th
 
 ## Videos
 
+All will take you to the corresponding video on my YouTube channel
+
 This first one is from my perspective in the blue hole.
-![Sharkholevid](/blog/assets/videos/Sharkhole.MOV "A clip of me in the Blue Hole")
+[![Sharkholevid](/blog/assets/images/SharkHoleTN.jpg "A clip of me in the Blue Hole")](https://youtu.be/9SJOkYbpMNE)
 
 This one is my personal favorite. One time we surfaced and there were tons of these tiny jellyfish, called thimble jellyfish. Their tentacles don't extend past their dome, so it's very hard to get stung by them. I booped the top and have no regrets.
-![LittleJelly](/blog/assets/videos/LittleJelly.MOV "A clip of a Thimble Jellyfish swimming")
+[![LittleJelly](/blog/assets/images/JellyThumbnail.jpg "A clip of a Thimble Jellyfish swimming")](https://youtu.be/VkvChFj4350)
 A little more on jellyfish, they're more lethal with longer tentacles. One night we went night diving, and our flashlights attracted some with longer tendrils. I only barely got one on my ear, but some decided not to wear their wetsuits - let's just say swim trunks are not close to the body.
 
 Here is a time lapse of the shark feed. It was frozen chum on a string, so you can see them swarm it. They didn't bother us at all, so we just watched from about 50 feet away. It was awesome.
-![SharkFeed](/blog/assets/videos/SharkFeed.MOV "A timelapse of the sharkfeed")
+[![SharkFeed](/blog/assets/images/SharkFeed.jpg "A timelapse of the sharkfeed")](https://youtu.be/vmTuqYYqWyg)
 
 This last one is another kind of worm like the Christmas tree worms, except these look like fans. What I forgot to mention above, is that when these worms feel "dangerous" movement, they retract their tendrils into their shells.
-![WormsClosing](/blog/assets/videos/WormsClosing.MOV "Closing Worms")
+[![WormsClosing](/blog/assets/images/WormsClosing.jpg "Closing Worms")](https://youtu.be/K5s--cMkLb4)
