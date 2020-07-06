@@ -3,7 +3,14 @@ title: Black Icons
 permalink: /Black-Lives-Matter/Black-Icons/
 ---
 
-To celebrate black figures in all aspects of our community.
+To celebrate black figures in all aspects of our community and history.
+
+## Film-Makers
+- Spike Lee
+Highlighted black culture. His films are categorized by their poignancy, as they are unapologetic in their reflection of the social contexts surrounding them. "His work examines both the relationship between the black community and the world around it and, more introspectively, the relationship of the black community to itself" (heartbrokenzine). He has redefined the media's understanding of race-based social and political issues like colorism and poverty.
+Some of his style touches are frequent use of double dolly shots and a signature catch-phrase to close out his movies.
+
+*The information on Lee and dash are from [@heartbrokenzine](https://www.instagram.com/heartbrokenzine/) on Instagram.*
 
 ## Musicians
 - Aretha Franklin, Iconic song: Respect
@@ -37,10 +44,14 @@ To celebrate black figures in all aspects of our community.
 
 *The names paired with songs I got from [@heartbrokenzine](https://www.instagram.com/heartbrokenzine/) on Instagram.*
 
-
-## Film-Makers
-- Spike Lee
-Highlighted black culture. His films are categorized by their poignancy, as they are unapologetic in their reflection of the social contexts surrounding them. "His work examines both the relationship between the black community and the world around it and, more introspectively, the relationship of the black community to itself" (heartbrokenzine). He has redefined the media's understanding of race-based social and political issues like colorism and poverty.
-Some of his style touches are frequent use of double dolly shots and a signature catch-phrase to close out his movies.
-
-*The information on Lee and dash are from [@heartbrokenzine](https://www.instagram.com/heartbrokenzine/) on Instagram.*
+## Writers
+#### Pauline Elizabeth Hopkins: novelist, journalist, playwright, historian, and editor
+as a pioneer in the use of the traditional literary form of the
+romantic novel as a means to explore and challenge prevailing racial and
+gender representations that were foremost in the minds of middle-class
+African Americans in the early part of the twentieth century. In addition,
+during her tenure at the Colored American Magazine -- one of the first
+major literary magazines targeted at a largely African American audience
+-- she is credited with laying the groundwork for the evolving African
+American literary style that would later become associated with the literati of the Harlem Renaissance. 
+She was the pioneer of african "lost world" fiction
