@@ -5,6 +5,8 @@ title: Black Lives Matter
 
 A collection of resources I have found on the internet for supporting black lives matter and educating oneself on black history.
 
+## [The 6 Original Demands] (/blog/Black-Lives-Matter/6demands/)
+
 ## Ways to Help
 
 #### [Calls](/blog/Black-Lives-Matter/Calls/)   ~   [Donating](/blog/Black-Lives-Matter/Donating/)   ~   [Emails](/blog/Black-Lives-Matter/Emails/)   ~   [Petitions](/blog/Black-Lives-Matter/Petitions/)
