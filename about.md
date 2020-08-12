@@ -14,4 +14,4 @@ Apart from being a Bioproducts & Biosytems Engineering student, I have a passion
 
 More about me on my [personal website](http://abichi.github.io).
 
-If there's anything you'd like to add or notice any errors, feel free to make a pull request [here](https://github.com/AbiChi/blog/pulls)
+If there's anything you'd like to add or notice any errors, feel free to make a pull request [here](https://github.com/AbiChi/blog/pulls).

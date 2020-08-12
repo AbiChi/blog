@@ -5,8 +5,6 @@ permalink: /Photography/Scuba-Photos/
 
 In the summer of 2018, I got certified to scuba dive and went to the bahamas. I took some pictures, which I am mostly just proud of because I was given the privilege to take them at all. They're not great quality, but they're fun.
 
-## Scuba Trip 2018 Photos
-
 The first is our scuba equipment. I really enjoyed learning and getting to use it all together.
 <img src="/blog/assets/images/ScubaEquipment.JPG" width="50%" style="padding:10px">
 
