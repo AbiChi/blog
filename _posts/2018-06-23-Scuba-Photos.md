@@ -17,7 +17,7 @@ Here's a selfie of me, I couldn't see what the camera saw so I'm happy that you 
 <img src="/blog/assets/images/ScubaMe.JPG" width="75%" style="padding:10px">
 
 For places, I have some fun ones. One is from a shipwreck, the next from a tunnel I swam through at a coral reef, and then the last picture and video were my favorite. This last destination is the Blue Hole. At the time of year we were there, hundreds of sharks circle in and around the huge hole with a diameter of 100 ft and a depth of more than 200 feet. It was very surreal because they didn't really do much else but swim, and there were so many.
-<img src="/blog/assets/images/Shipwreck.JPG" width="75%" style="padding:10px"><img src="/blog/assets/images/Tunnel.JPG" width="75%" style="padding:10px">
+<img src="/blog/assets/images/Shipwreck.JPG" width="75%" style="padding:10px"> <img src="/blog/assets/images/Tunnel.JPG" width="75%" style="padding:10px">
 <img src="/blog/assets/images/Sharkhole.JPG" width="75%" style="padding:10px">
 
 ## The Animals
@@ -40,30 +40,22 @@ This fun camouflage expert is the pipefish. I watched as it slowly swam up to th
 ## Videos
 
 This first one is from my perspective in the blue hole.
-<div style="justify-content:center;">
-  <video width="75%" controls style="padding:10px" style="margin:auto;">
-    <source src="/blog/assets/videos/SharkHole.mp4" type="video/mp4">
-  </video>
-</div>
+<video width="75%" controls style="padding:10px" style="margin:auto;">
+  <source src="/blog/assets/videos/SharkHole.mp4" type="video/mp4">
+</video>
 
 This one is my personal favorite. One time we surfaced and there were tons of these tiny jellyfish, called thimble jellyfish. Their tentacles don't extend past their dome, so it's very hard to get stung by them. I booped the top and have no regrets.
-<div style="justify-content:center;">
-  <video width="75%" controls style="padding:10px" style="margin:auto;">
-    <source src="/blog/assets/videos/Jelly.mp4" type="video/mp4">
-  </video>
-</div>
+<video width="75%" controls style="padding:10px" style="margin:auto;">
+  <source src="/blog/assets/videos/Jelly.mp4" type="video/mp4">
+</video>
 A little more on jellyfish, they're more lethal with longer tentacles. One night we went night diving, and our flashlights attracted some with longer tendrils. I only barely got one on my ear, but some decided not to wear their wetsuits - let's just say swim trunks are not close to the body.
 
 Here is a time lapse of the shark feed. It was frozen chum on a string, so you can see them swarm it. They didn't bother us at all, so we just watched from about 50 feet away. It was awesome.
-<div style="justify-content:center;">
-  <video width="75%" controls style="padding:10px" style="margin:auto;">
-    <source src="/blog/assets/videos/SharkFeed.mp4" type="video/mp4">
-  </video>
-</div>
+<video width="75%" controls style="padding:10px" style="margin:auto;">
+  <source src="/blog/assets/videos/SharkFeed.mp4" type="video/mp4">
+</video>
 
 This last one is another kind of worm like the Christmas tree worms, except these look like fans. What I forgot to mention above, is that when these worms feel "dangerous" movement, they retract their tendrils into their shells.
-<div style="justify-content:center;">
-  <video width="75%" controls style="padding:10px" style="margin:auto;">
-    <source src="/blog/assets/videos/WormsClosing.mp4" type="video/mp4">
-  </video>
-</div>
+<video width="75%" controls style="padding:10px" style="margin:auto;">
+  <source src="/blog/assets/videos/WormsClosing.mp4" type="video/mp4">
+</video>
