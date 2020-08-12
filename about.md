@@ -13,3 +13,5 @@ All views expressed are entirely my own unless otherwise given credit.
 Apart from being a Bioproducts & Biosytems Engineering student, I have a passion for coding (I'm pursuing a minor in Computer Science), which created this site. I have always loved many science related topics and the environment. Apart from my education I love to take photographs, have healthy habits, and spend time with my family.
 
 More about me on my [personal website](http://abichi.github.io).
+
+If there's anything you'd like to add or notice any errors, feel free to make a pull request [here](https://github.com/AbiChi/blog/pulls)
