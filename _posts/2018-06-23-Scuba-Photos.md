@@ -17,8 +17,7 @@ Here's a selfie of me, I couldn't see what the camera saw so I'm happy that you 
 <img src="/blog/assets/images/ScubaMe.JPG" width="75%" style="padding:10px">
 
 For places, I have some fun ones. One is from a shipwreck, the next from a tunnel I swam through at a coral reef, and then the last picture and video were my favorite. This last destination is the Blue Hole. At the time of year we were there, hundreds of sharks circle in and around the huge hole with a diameter of 100 ft and a depth of more than 200 feet. It was very surreal because they didn't really do much else but swim, and there were so many.
-<img src="/blog/assets/images/Shipwreck.JPG" width="75%" style="padding:10px">
-<img src="/blog/assets/images/Tunnel.JPG" width="75%" style="padding:10px">
+<img src="/blog/assets/images/Shipwreck.JPG" width="75%" style="padding:10px"> <img src="/blog/assets/images/Tunnel.JPG" width="75%" style="padding:10px">
 <img src="/blog/assets/images/Sharkhole.JPG" width="75%" style="padding:10px">
 
 ## The Animals
