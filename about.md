@@ -5,9 +5,9 @@ title: About
 ## About this blog
 Here I will document random resources of interest made by me (Abigail Chiaokhiao).
 
-Right now I just have posts on science and photography, so feel free to navigate to those pages and then the posts from there.
+The different categories can be found in the hamburger menu in the upper left, feel free to explore!
 
-All views expressed are entirely my own.
+All views expressed are entirely my own unless otherwise given credit.
 
 ## About me
 Apart from being a Bioproducts & Biosytems Engineering student, I have a passion for coding (I'm pursuing a minor in Computer Science), which created this site. I have always loved many science related topics and the environment. Apart from my education I love to take photographs, have healthy habits, and spend time with my family.
