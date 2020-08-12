@@ -13,7 +13,7 @@ I take pictures of mostly nature, but if something catches my eye I'll take ones
 
 [Golden Hours, last updated 7/6/20](/blog/Photography/Golden-Hours/)
 
-[Lake Photo, last updated 6/20/20](/blog/Photography/Lake-Photos/)
+[Lake Photos, last updated 6/20/20](/blog/Photography/Lake-Photos/)
 
 [Funny Animal Poses, last updated 6/21/20](/blog/Photography/Funny-Animal-Poses/)
 

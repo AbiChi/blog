@@ -8,7 +8,7 @@ In the summer of 2018, I got certified to scuba dive and went to the bahamas. I 
 ## Scuba Trip 2018 Photos
 
 The first is our scuba equipment. I really enjoyed learning and getting to use it all together.
-<img src="/blog/assets/images/ScubaEquipment.JPG" width="75%" style="padding:10px">
+<img src="/blog/assets/images/ScubaEquipment.JPG" width="50%" style="padding:10px">
 
 We also stopped at an island in the Exuma Cays, here's a panorama from that:
 <img src="/blog/assets/images/ExumaCaysIsland.jpg" width="100%" style="padding:10px">
@@ -41,22 +41,22 @@ This fun camouflage expert is the pipefish. I watched as it slowly swam up to th
 ## Videos
 
 This first one is from my perspective in the blue hole.
-<video width="320" height="240" controls style="padding:10px">
+<video width="480" height="360" controls style="padding:10px">
   <source src="/blog/assets/videos/SharkHole.mp4" type="video/mp4">
 </video>
 
 This one is my personal favorite. One time we surfaced and there were tons of these tiny jellyfish, called thimble jellyfish. Their tentacles don't extend past their dome, so it's very hard to get stung by them. I booped the top and have no regrets.
-<video width="320" height="240" controls style="padding:10px">
+<video width="480" height="360" controls style="padding:10px">
   <source src="/blog/assets/videos/Jelly.mp4" type="video/mp4">
 </video>
 A little more on jellyfish, they're more lethal with longer tentacles. One night we went night diving, and our flashlights attracted some with longer tendrils. I only barely got one on my ear, but some decided not to wear their wetsuits - let's just say swim trunks are not close to the body.
 
 Here is a time lapse of the shark feed. It was frozen chum on a string, so you can see them swarm it. They didn't bother us at all, so we just watched from about 50 feet away. It was awesome.
-<video width="320" height="240" controls style="padding:10px">
+<video width="480" height="360" controls style="padding:10px">
   <source src="/blog/assets/videos/SharkFeed.mp4" type="video/mp4">
 </video>
 
 This last one is another kind of worm like the Christmas tree worms, except these look like fans. What I forgot to mention above, is that when these worms feel "dangerous" movement, they retract their tendrils into their shells.
-<video width="320" height="240" controls style="padding:10px">
+<video width="480" height="360" controls style="padding:10px">
   <source src="/blog/assets/videos/WormsClosing.mp4" type="video/mp4">
 </video>

@@ -5,32 +5,32 @@ permalink: /Photography/Golden-Hours/
 
 Everyone knows about golden hour, when the sun is setting and the sky looks much more colorful than usual. Even so, I also have some pictures of sunrises, because they look similar and are similarly beautiful.
 
-![SunBehindCloudsKidsInFG](/blog/assets/images/SunBehindCloudsKidsInFG.jpg "The sun behind the clouds with a few kids swimming in East Medicine Lake in the foreground")
+<img src="/blog/assets/images/SunBehindCloudsKidsInFG.jpg" width="75%" style="padding:10px">
 The sun behind the clouds with a few kids swimming in East Medicine Lake in the foreground, taken 7/4/20
 
-![YellowSunsetEvenMoreBackedUp](/blog/assets/images/YellowSunsetEvenMoreBackedUp.jpg "A yellow sunset with a beautiful variety of clouds over East Medicine Lake")
+<img src="/blog/assets/images/YellowSunsetEvenMoreBackedUp.jpg" width="75%" style="padding:10px">
 A yellow sunset with a beautiful variety of clouds over East Medicine Lake, taken 7/1/20
 
-![LakeSunset1](/blog/assets/images/LakeSunset1.jpg "A reddish sunset over East Medicine Lake")
+<img src="/blog/assets/images/LakeSunset1.jpg" width="75%" style="padding:10px">
 A sunset over East Medicine Lake, taken 6/17/20
 
-![BahamaSunset](/blog/assets/images/BahamaSunset.jpg "A sunset over the ocean during my Bahama trip")
+<img src="/blog/assets/images/BahamaSunset.jpg" width="75%" style="padding:10px">
 A sunset over the ocean during my Bahama trip, taken 6/19/18
 
-![BHSSunrise](/blog/assets/images/BHSSunrise.jpg "A sunrise during the winter of my junior year of high school")
+<img src="/blog/assets/images/BHSSunrise.jpg" width="75%" style="padding:10px">
 A sunset over the ocean during my Bahama trip, taken 4/5/18
 
-![DuluthSR](/blog/assets/images/DuluthSR.jpg "A sunrise during the winter in Duluth")
+<img src="/blog/assets/images/DuluthSR.jpg" width="75%" style="padding:10px">
 A sunrise during the winter in Duluth, taken 3/9/18
 
-![LoonLakeSS](/blog/assets/images/LoonLakeSS.JPG "A summer sunset on Loon Lake")
+<img src="/blog/assets/images/LoonLakeSS.JPG" width="75%" style="padding:10px">
 A summer sunset on Loon Lake, taken 6/11/17
 
-![SherburneSS](/blog/assets/images/SherburneSS.JPG "A spring sunset on a pond at the Sherburne National Wildlife Refuge")
+<img src="/blog/assets/images/SherburneSS.JPG" width="75%" style="padding:10px">
 A spring sunset on a pond at the Sherburne National Wildlife Refuge, taken 4/22/17
 
-![LoonLakeSSBlue](/blog/assets/images/LoonLakeSSBlue.JPG)
+<img src="/blog/assets/images/LoonLakeSSBlue.JPG" width="75%" style="padding:10px">
 A summer sunset on Loon Lake with warm colors taken out, taken on my birthday, 7/3/16
 
-![UKSS](/blog/assets/images/UKSS.JPG "A summer sunset on a lake at a friend's cabin")
+<img src="/blog/assets/images/UKSS.JPG" width="75%" style="padding:10px">
 A summer sunset on a lake at a friend's cabin, taken 6/8/16
