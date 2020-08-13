@@ -1,5 +1,5 @@
 ---
-title: Baby Raccoons In Our Garbage
+title: Wildlife Spot - Baby Raccoons In Our Garbage
 permalink: /Photography/Baby-Raccoons-In-Our-Garbage/
 ---
 
