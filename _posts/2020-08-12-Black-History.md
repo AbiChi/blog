@@ -12,7 +12,7 @@ On  March 5th, 1959, 69 African American boys aged 13-17 were locked into their 
 This brought attention to the horrible conditions they lived in such as cramped spaces and having buckets as their bathrooms.
 > "The boys in the school were committed for being orphaned, homeless or for committing offenses described as mischief and alleged petty crimes. The school and the treatment of the children became a fiery representation of segregation within the South during the Jim Crow Era." (Brooks, 2017)
 
-<img src="/blog/assets/images/Wrightsville21.jpg" width="75%" style="padding:10px">
+<img src="/blog/assets/images/BLM/Wrightsville21.jpg" width="75%" style="padding:10px">
 
 The estates of each boy were supposed to receive $2500 in compensation, but one family says they only got $1400. And no one was indicted.
 
@@ -26,7 +26,7 @@ Eleven people were killed, 5 being children, and one being the founder of MOVE. 
 MOVE was anti-government, anti-technology, and anti-corporation.
 > "Its creator, John Africa, born Vincent Leaphart, was a West Philadelphia native and Korean War veteran whose ideology combined black revolutionary ideas with environmental and animal rights, as well as a back-to-nature movement" ([Vox.com](https://www.vox.com/)).
 
-<img src="/blog/assets/images/PhillyBombing.jpg" width="75%" style="padding:10px">
+<img src="/blog/assets/images/BLM/PhillyBombing.jpg" width="75%" style="padding:10px">
 
 *I originally found some information at [this](https://www.instagram.com/p/CBJTXtXDmZm/) post from [@vitoria.byrne](https://www.instagram.com/vitoria.byrne/), but I also looked a another source which also has more information on the effects of the event are [here](https://www.vox.com/the-highlight/2019/8/8/20747198/philadelphia-bombing-1985-move).*
 
@@ -34,7 +34,7 @@ MOVE was anti-government, anti-technology, and anti-corporation.
 #### The Tulsa Massacre
 Before wallstreet, there was The Greenwood District, or "Black Wallstreet". This district in Oklahoma was a community of 300+ black-owned businesses.
 Tensions became high between the white people of Tulsa and this community. The catalyst was when in 1921 a white female accused a black teenager Dick Roland of assault. Without evidence, black and white protestors gathered outside the courthouse Dick was being held at. At some point shots were fired. The next day a white mob stormed Greenwood.
-<img src="/blog/assets/images/TulsaMassacre.jpg" width="75%" style="padding:10px">
+<img src="/blog/assets/images/BLM/TulsaMassacre.jpg" width="75%" style="padding:10px">
 They burned 1,200 homes, causing at least 300 lives to be lost.
 *Information from [this](https://www.instagram.com/p/CBJTXtXDmZm/) post from [@vitoria.byrne](https://www.instagram.com/vitoria.byrne/).*
 
