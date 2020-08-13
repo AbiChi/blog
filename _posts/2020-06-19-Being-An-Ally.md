@@ -3,7 +3,7 @@ title: Being an Ally
 permalink: /Black-Lives-Matter/Being-An-Ally/
 ---
 
-I am not black, and so I want to know how to be an ally. I'm sure many other non-black people would like to as well. This is more about how to talk and present yourself as an ally, ways to help is at the [Black Lives Matter](https://abichi.github.io/blog/Black-Lives-Matter/Ways-to-Help/) page.
+I am not black, and so I want to know how to be an ally. I'm sure many other non-black people would like to as well. This is more about how to talk and present yourself as an ally, ways to help is at the [Black Lives Matter](https://abichi.github.io/blog/Black-Lives-Matter/Petitions/) page.
 
 ## Discussion
 

@@ -15,6 +15,8 @@ A collection of resources I have found on the internet for supporting black live
 There's a lot of discussions that need to happen related to race, and things that are good to know to be a good ally. Links here are for that.
 #### [To be a better Ally](/blog/Black-Lives-Matter/Being-An-Ally/)
 #### [About Police Corruption](/blog/Black-Lives-Matter/Police-Corruption/)
+#### [Vocabulary to Know](/blog/Black-Lives-Matter/Vocabulary-to-Know/)
+#### [Common Talking Points & Arguments](/blog/Black-Lives-Matter/Discussion/)
 
 
 ## Black History You're Not Taught in School
