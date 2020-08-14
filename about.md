@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<img src="/blog/assets/images/FancyMe.JPG" width="270" height="370" style="padding:10px; float:right;">
+<img src="/blog/assets/images/ApproachableMe.jpg" width="250" height="323" style="padding:10px; float:right;">
 ## About this blog
 Here I will document random resources of interest made by me (Abigail Chiaokhiao).
 
