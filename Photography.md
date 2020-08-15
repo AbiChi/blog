@@ -9,6 +9,10 @@ The first time I took pictures, it was on a disposable camera I found in a close
 
 I take pictures of mostly nature, but if something catches my eye I'll take ones of anything. The focus of the picture can change: sometimes it's to capture what I saw, sometimes it is to add some artistic flair. You can decide. Any of the links below will take you to my posts.
 
+[Zoo Favorites, last updated 8/14/20](/blog/Photography/Zoo-Favorites/)
+
+[Portraits, last updated 8/14/20](/blog/Photography/Portraits/)
+
 [Koda, last updated 8/12/20](/blog/Photography/Koda/)
 
 [Albino Raccoon, 8/12/20](/blog/Photography/Albino-Raccoon/)
