@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Black Lives Matter
 ---
-# Black Lives Matter
 
 A collection of resources I have found on the internet for supporting black lives matter and educating oneself on black history.
 
