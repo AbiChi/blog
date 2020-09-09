@@ -10,6 +10,6 @@ This is a guide I wrote for a University of Minnesota group I am a codirector of
 *Note: You will get more out of it if you use it electronically. There are many links for further reading on the topics than I go into in the document.*
 
 <div style="padding:10px">
-    <a href="/blog/assets/docs/MATLAB_Basics_8.16.pdf"><img src="/blog/assets/images/SciNTut/MATLAB_Basics.jpg" width="100%">
+    <a href="/blog/assets/docs/MATLAB_Basics_9.9.20.pdf"><img src="/blog/assets/images/SciNTut/MATLAB_Basics.jpg" width="100%">
     </a>
 </div>
